@@ -1,0 +1,104 @@
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+/home/kaushik/Desktop/Kaushik_MTP/robust-bayesian-recourse/rbr/rbr.py:44: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  self.train_data = torch.tensor(train_data).float()
+data generated
+first model trained
+both models trained
+558
+data generated
+first model trained
+both models trained
+478
+data generated
+first model trained
+both models trained
+549
+data generated
+first model trained
+both models trained
+502
+data generated
+first model trained
+both models trained
+479
+data generated
+first model trained
+both models trained
+436
+data generated
+first model trained
+both models trained
+514
+data generated
+first model trained
+both models trained
+476
+data generated
+first model trained
+both models trained
+512
+data generated
+first model trained
+both models trained
+499
+data generated
+first model trained
+both models trained
+484
+data generated
+first model trained
+both models trained
+500
+data generated
+first model trained
+both models trained
+469
+data generated
+first model trained
+both models trained
+506
+data generated
+first model trained
+both models trained
+515
+data generated
+first model trained
+both models trained
+500
+data generated
+first model trained
+both models trained
+502
+[0.489247311827957, 0.5564853556485355, 0.33515482695810567, 0.5298804780876494, 0.6012526096033403, 0.5068807339449541, 0.3521400778210117, 0.3739495798319328, 0.419921875, 0.3466933867735471, 0.27892561983471076, 0.418, 0.2899786780383795, 0.24110671936758893, 0.017475728155339806, 0.004, 0.0099601593625498]
+[-1.1, -0.9625, -0.825, -0.6875, -0.55, -0.4125, -0.275, -0.1375, 0.0, 0.1375, 0.275, 0.4125, 0.55, 0.6875, 0.825, 0.9625, 1.1]
